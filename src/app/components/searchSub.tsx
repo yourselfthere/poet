@@ -19,7 +19,7 @@ const searchSub = () => {
           <Image alt=" logo" height={40} src="/images/logo.jpg" width={40} />
           <div className="flex flex-col">
             <div className="flex  gap-10">
-              <p className="text-md">People's Poetry Heaven </p>
+              <p className="text-md">People&apos;s Poetry Heaven </p>
               <Button className=" h-[34px] text-[14px] bg-gradient-to-tr from-red-600 to-pink-500 text-white shadow-lg">
                 Subscribe
               </Button>
@@ -30,7 +30,7 @@ const searchSub = () => {
         <CardBody className="flex flex-col place-content-end">
           <div className="flex gap-2 items-center">
             <Input
-              label={"Search Poets"}
+              label={"Search Poet"}
               radius="lg"
               size="sm"
               className="h-[34px] w-[366px] "

@@ -14,7 +14,7 @@ const Appbar = ({ children }: Props) => {
       >
         <NavbarBrand>
           <p className=" text-black  text-3xl tracking-tight  bg-clip-text ">
-            People's Poetry Heaven
+            People&apos;s Poetry Heaven
           </p>
         </NavbarBrand>
         <NavbarContent justify="end">{children}</NavbarContent>
